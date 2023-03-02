@@ -11,7 +11,7 @@
         I'm Julian, a software engineering student. I love cybersecurity and I'm on my way to being a great h4ck3r
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+code+beautiful+and+aesthetic+programs.">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=On+the+way+to+being+a+great+hacker">
       <br>
       <b>
         ~ I ReyVerudgo I ~
