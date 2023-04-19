@@ -8,7 +8,7 @@
       <b>
         Hellooo!
       <br>
-        I'm Julian, a software engineering student. I love cybersecurity. Knowledge in development and interested in QA.
+        I'm Julian, a software engineering student. Interest in cybersecurity and knowledge in development.
       </b>
       <br>
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=On+the+way+to+being+a+great+h4ck3r">
